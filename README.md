@@ -20,5 +20,6 @@ La simulacion inicia en una sotuacion inicial con un tercio de los agentes total
 ### Resultados
 Al final de una simulacion con 100 iteraciones todo el tablero se llena con agentes de solo 2 estados, muertos o contagiados, en su gran mayoria contagiados ya que la probabilidad de muerte era muy pequeña, para tener resultadoos diferentes se podria intentar iniciar con un porcentaje menor de contagiados o cambiar las variables.
 
-### Link Repo
+### Link Repository
+https://github.com/pablo-ramm/act-integradora
 
